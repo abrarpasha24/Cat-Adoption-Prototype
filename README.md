@@ -1,4 +1,4 @@
-<h1>Pet-Adoption-Prototype</h1>
+<h1>Cat-Adoption-Prototype</h1>
 
 We will be setting up a DynamoDB table full of cats that are waiting to be adopted. When the adopted field is updated to true, a Lambda will be triggered that will send an email to the adoption center telling them that “[cat xyz] has been adopted!”
 
